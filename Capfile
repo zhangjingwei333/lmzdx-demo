@@ -34,7 +34,7 @@ require "capistrano/passenger"
 #   https://github.com/capistrano/passenger
 
 # require "capistrano/bundler"
-require "capistrano/rails"
+# require "capistrano/rails"
 # require "capistrano/passenger"
 #
 # require "capistrano/rvm"
